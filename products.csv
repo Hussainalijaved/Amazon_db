@@ -1,0 +1,25 @@
+product_id,product_name,category_id,price,cogs
+1,Smartphone,1,199.99,5
+2,Laptop,1,200.99,2
+3,Headphones,1,459.99,4
+4,Tablet,1,566.99,5
+5,T-Shirt,1,49.99,1
+6,Jeans,1,80.99,6
+7,Jacket,1,546.99,2
+8,Sneakers,1,355.99,1
+9,Mixer,1,4985.99,6
+10,Vacuum Cleaner,1,5655.99,3
+11,Microwave,1,456.99,3
+12,Coffee Maker,1,582.99,4
+13,Novel,1,221.99,1
+14,Textbook,1,58.99,2
+15,Comics,1,455.99,6
+16,Magazine,1,27.99,5
+17,Lipstick,1,14.99,3
+18,Perfume,1,50.99,2
+19,Face Cream,1,54.99,6
+20,Shampoo,1,455.99,4
+21,Football,1,722.99,5
+22,Tennis Racket,1,485.99,1
+23,Yoga Mat,1,56.99,3
+24,Dumbbells,1,7288.99,2

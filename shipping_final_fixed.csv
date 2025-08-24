@@ -1,0 +1,30 @@
+shipping_id,shipping_date,delivery_status,order_id
+1,2023-07-14,Returned,1
+2,2023-07-15,Shipped,3
+3,2023-07-16,Delivered,5
+4,2023-07-17,In Transit,44
+5,2023-07-18,Returned,32
+7,2023-07-20,In Transit,23
+12,2023-07-25,Shipped,3
+13,2023-07-26,Shipped,2
+15,2023-07-28,Shipped,23
+17,2023-07-30,Shipped,23
+19,2023-08-01,Delivered,2
+21,2023-08-03,Shipped,23
+22,2023-08-04,Returned,2
+23,2023-08-05,Shipped,2
+24,2023-08-06,Shipped,34
+25,2023-01-27,In Transit,5
+27,2023-10-29,In Transit,7
+29,2025-01-04,In Transit,4
+30,2024-09-15,In Transit,2
+31,2023-07-01,In Transit,3
+32,2023-10-23,Shipped,26
+38,2023-04-14,Shipped,48
+39,2024-12-31,Returned,45
+40,2023-03-26,Delivered,15
+42,2023-04-25,Delivered,15
+45,2024-01-12,In Transit,5
+46,2023-03-09,Shipped,6
+47,2024-06-16,Delivered,8
+48,2024-09-04,Returned,6
